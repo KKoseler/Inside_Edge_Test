@@ -1,3 +1,5 @@
+## REQUIRES PYTHON 3
+
 ## Terminology
 1. **Subject**: A field that is grouped on; analogous to SQL's "GROUP BY"  
 clause.  
